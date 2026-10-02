@@ -1,0 +1,5 @@
+config,label,n_prs_associated,n_prors_selected,observed_overlap,expected_overlap,obs_over_exp,hypergeometric_p,shared_proteins
+AD_withAPOE,AD with APOE,238,71,16,5.79,2.76,0.000124,"ADGRG1, AGR3, APOE, CD99L2, CEND1, COQ7, DCTN2, GFAP, MENT, MZB1, PDGFC, PVR, SEMA7A, SNAP25, SYT1, VSNL1"
+AD_noAPOE,AD without APOE,39,71,0,0.95,0.0,1.0,none
+PD,PD,18,133,2,0.82,2.44,0.196,"CFB, GGH"
+ALS,ALS,58,18,0,0.36,0.0,1.0,none

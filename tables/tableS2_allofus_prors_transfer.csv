@@ -1,0 +1,5 @@
+analysis,disease,ancestry_set,n_cases,n_controls,prors_only_auc,auc_covariates,auc_cov_plus_prors,ci_lo,ci_hi,delong_p,n_proteins_transferred,source
+frozen UK Biobank ProRS applied without refitting,AD,all_ancestry,39,9400,0.865,0.914,0.93,0.895,0.965,0.0473,62,"All of Us Researcher Workbench, aggregate output"
+frozen UK Biobank ProRS applied without refitting,AD,eur,20,2717,0.808,0.844,0.88,0.815,0.944,0.0556,62,"All of Us Researcher Workbench, aggregate output"
+frozen UK Biobank ProRS applied without refitting,PD,all_ancestry,56,9383,0.791,0.897,0.91,0.885,0.934,0.0244,59,"All of Us Researcher Workbench, aggregate output"
+frozen UK Biobank ProRS applied without refitting,PD,eur,35,2702,0.741,0.819,0.833,0.785,0.881,0.203,59,"All of Us Researcher Workbench, aggregate output"

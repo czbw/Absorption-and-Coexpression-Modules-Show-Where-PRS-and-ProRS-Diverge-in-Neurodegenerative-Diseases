@@ -1,0 +1,793 @@
+K_requested,modules_at_K,score,protein_set,module,module_size,n_set_members,expected,p,q,q_lt_0.05
+30,28,AD with APOE,PRS-associated,1,717,10,58.44,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,2,235,2,19.15,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,3,179,43,14.59,1.35e-11,1.26e-10,yes
+30,28,AD with APOE,PRS-associated,4,164,17,13.37,0.177,0.619,no
+30,28,AD with APOE,PRS-associated,5,153,40,12.47,4.28e-12,6e-11,yes
+30,28,AD with APOE,PRS-associated,6,147,17,11.98,0.0856,0.342,no
+30,28,AD with APOE,PRS-associated,7,129,19,10.51,0.00727,0.0339,yes
+30,28,AD with APOE,PRS-associated,8,124,21,10.11,0.000809,0.00453,yes
+30,28,AD with APOE,PRS-associated,9,99,0,8.07,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,10,88,1,7.17,0.999,1.0,no
+30,28,AD with APOE,PRS-associated,11,88,4,7.17,0.938,1.0,no
+30,28,AD with APOE,PRS-associated,12,82,3,6.68,0.969,1.0,no
+30,28,AD with APOE,PRS-associated,13,80,1,6.52,0.999,1.0,no
+30,28,AD with APOE,PRS-associated,14,71,1,5.79,0.998,1.0,no
+30,28,AD with APOE,PRS-associated,15,67,6,5.46,0.469,1.0,no
+30,28,AD with APOE,PRS-associated,16,67,0,5.46,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,17,66,0,5.38,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,18,65,23,5.3,3.34e-10,2.34e-09,yes
+30,28,AD with APOE,PRS-associated,19,63,3,5.13,0.899,1.0,no
+30,28,AD with APOE,PRS-associated,20,40,3,3.26,0.645,1.0,no
+30,28,AD with APOE,PRS-associated,21,33,2,2.69,0.764,1.0,no
+30,28,AD with APOE,PRS-associated,22,30,3,2.45,0.447,1.0,no
+30,28,AD with APOE,PRS-associated,23,27,3,2.2,0.38,1.0,no
+30,28,AD with APOE,PRS-associated,24,25,0,2.04,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,25,25,0,2.04,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,26,21,0,1.71,1.0,1.0,no
+30,28,AD with APOE,PRS-associated,27,18,16,1.47,3.11e-16,8.71e-15,yes
+30,28,AD with APOE,PRS-associated,28,17,0,1.39,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,2,235,6,5.71,0.514,1.0,no
+30,28,AD with APOE,ProRS-selected,3,179,0,4.35,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,4,164,3,3.99,0.772,1.0,no
+30,28,AD with APOE,ProRS-selected,5,153,9,3.72,0.0107,0.1,no
+30,28,AD with APOE,ProRS-selected,6,147,6,3.57,0.145,0.676,no
+30,28,AD with APOE,ProRS-selected,7,129,9,3.14,0.00352,0.0493,yes
+30,28,AD with APOE,ProRS-selected,8,124,3,3.02,0.588,1.0,no
+30,28,AD with APOE,ProRS-selected,9,99,3,2.41,0.435,1.0,no
+30,28,AD with APOE,ProRS-selected,10,88,3,2.14,0.362,1.0,no
+30,28,AD with APOE,ProRS-selected,11,88,0,2.14,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,12,82,2,1.99,0.599,1.0,no
+30,28,AD with APOE,ProRS-selected,13,80,1,1.95,0.864,1.0,no
+30,28,AD with APOE,ProRS-selected,14,71,1,1.73,0.83,1.0,no
+30,28,AD with APOE,ProRS-selected,15,67,4,1.63,0.0782,0.438,no
+30,28,AD with APOE,ProRS-selected,16,67,4,1.63,0.0782,0.438,no
+30,28,AD with APOE,ProRS-selected,17,66,0,1.6,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,18,65,2,1.58,0.473,1.0,no
+30,28,AD with APOE,ProRS-selected,19,63,2,1.53,0.457,1.0,no
+30,28,AD with APOE,ProRS-selected,20,40,6,0.97,0.000333,0.00934,yes
+30,28,AD with APOE,ProRS-selected,21,33,2,0.8,0.191,0.763,no
+30,28,AD with APOE,ProRS-selected,22,30,0,0.73,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,23,27,1,0.66,0.487,1.0,no
+30,28,AD with APOE,ProRS-selected,24,25,0,0.61,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,25,25,0,0.61,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,26,21,0,0.51,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,27,18,0,0.44,1.0,1.0,no
+30,28,AD with APOE,ProRS-selected,28,17,0,0.41,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,1,717,2,9.58,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,2,235,0,3.14,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,3,179,14,2.39,2.5e-08,7.01e-07,yes
+30,28,AD without APOE,PRS-associated,4,164,2,2.19,0.653,1.0,no
+30,28,AD without APOE,PRS-associated,5,153,2,2.04,0.615,1.0,no
+30,28,AD without APOE,PRS-associated,6,147,0,1.96,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,7,129,4,1.72,0.0909,0.636,no
+30,28,AD without APOE,PRS-associated,8,124,8,1.66,0.000171,0.0024,yes
+30,28,AD without APOE,PRS-associated,9,99,0,1.32,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,10,88,0,1.18,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,11,88,0,1.18,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,12,82,0,1.1,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,13,80,0,1.07,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,14,71,0,0.95,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,15,67,0,0.89,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,16,67,0,0.89,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,17,66,0,0.88,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,18,65,0,0.87,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,19,63,1,0.84,0.575,1.0,no
+30,28,AD without APOE,PRS-associated,20,40,0,0.53,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,21,33,1,0.44,0.36,1.0,no
+30,28,AD without APOE,PRS-associated,22,30,1,0.4,0.333,1.0,no
+30,28,AD without APOE,PRS-associated,23,27,3,0.36,0.00516,0.0482,yes
+30,28,AD without APOE,PRS-associated,24,25,0,0.33,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,25,25,0,0.33,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,26,21,0,0.28,1.0,1.0,no
+30,28,AD without APOE,PRS-associated,27,18,1,0.24,0.216,1.0,no
+30,28,AD without APOE,PRS-associated,28,17,0,0.23,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,2,235,6,5.71,0.514,1.0,no
+30,28,AD without APOE,ProRS-selected,3,179,0,4.35,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,4,164,3,3.99,0.772,1.0,no
+30,28,AD without APOE,ProRS-selected,5,153,9,3.72,0.0107,0.1,no
+30,28,AD without APOE,ProRS-selected,6,147,6,3.57,0.145,0.676,no
+30,28,AD without APOE,ProRS-selected,7,129,9,3.14,0.00352,0.0493,yes
+30,28,AD without APOE,ProRS-selected,8,124,3,3.02,0.588,1.0,no
+30,28,AD without APOE,ProRS-selected,9,99,3,2.41,0.435,1.0,no
+30,28,AD without APOE,ProRS-selected,10,88,3,2.14,0.362,1.0,no
+30,28,AD without APOE,ProRS-selected,11,88,0,2.14,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,12,82,2,1.99,0.599,1.0,no
+30,28,AD without APOE,ProRS-selected,13,80,1,1.95,0.864,1.0,no
+30,28,AD without APOE,ProRS-selected,14,71,1,1.73,0.83,1.0,no
+30,28,AD without APOE,ProRS-selected,15,67,4,1.63,0.0782,0.438,no
+30,28,AD without APOE,ProRS-selected,16,67,4,1.63,0.0782,0.438,no
+30,28,AD without APOE,ProRS-selected,17,66,0,1.6,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,18,65,2,1.58,0.473,1.0,no
+30,28,AD without APOE,ProRS-selected,19,63,2,1.53,0.457,1.0,no
+30,28,AD without APOE,ProRS-selected,20,40,6,0.97,0.000333,0.00934,yes
+30,28,AD without APOE,ProRS-selected,21,33,2,0.8,0.191,0.763,no
+30,28,AD without APOE,ProRS-selected,22,30,0,0.73,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,23,27,1,0.66,0.487,1.0,no
+30,28,AD without APOE,ProRS-selected,24,25,0,0.61,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,25,25,0,0.61,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,26,21,0,0.51,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,27,18,0,0.44,1.0,1.0,no
+30,28,AD without APOE,ProRS-selected,28,17,0,0.41,1.0,1.0,no
+30,28,PD,PRS-associated,1,717,0,4.42,1.0,1.0,no
+30,28,PD,PRS-associated,2,235,0,1.45,1.0,1.0,no
+30,28,PD,PRS-associated,3,179,1,1.1,0.681,1.0,no
+30,28,PD,PRS-associated,4,164,0,1.01,1.0,1.0,no
+30,28,PD,PRS-associated,5,153,3,0.94,0.0645,0.452,no
+30,28,PD,PRS-associated,6,147,1,0.91,0.606,1.0,no
+30,28,PD,PRS-associated,7,129,3,0.8,0.0423,0.395,no
+30,28,PD,PRS-associated,8,124,4,0.76,0.00596,0.0835,no
+30,28,PD,PRS-associated,9,99,0,0.61,1.0,1.0,no
+30,28,PD,PRS-associated,10,88,0,0.54,1.0,1.0,no
+30,28,PD,PRS-associated,11,88,0,0.54,1.0,1.0,no
+30,28,PD,PRS-associated,12,82,0,0.51,1.0,1.0,no
+30,28,PD,PRS-associated,13,80,0,0.49,1.0,1.0,no
+30,28,PD,PRS-associated,14,71,1,0.44,0.359,1.0,no
+30,28,PD,PRS-associated,15,67,1,0.41,0.342,1.0,no
+30,28,PD,PRS-associated,16,67,0,0.41,1.0,1.0,no
+30,28,PD,PRS-associated,17,66,0,0.41,1.0,1.0,no
+30,28,PD,PRS-associated,18,65,0,0.4,1.0,1.0,no
+30,28,PD,PRS-associated,19,63,0,0.39,1.0,1.0,no
+30,28,PD,PRS-associated,20,40,0,0.25,1.0,1.0,no
+30,28,PD,PRS-associated,21,33,3,0.2,0.000956,0.0268,yes
+30,28,PD,PRS-associated,22,30,0,0.18,1.0,1.0,no
+30,28,PD,PRS-associated,23,27,0,0.17,1.0,1.0,no
+30,28,PD,PRS-associated,24,25,0,0.15,1.0,1.0,no
+30,28,PD,PRS-associated,25,25,0,0.15,1.0,1.0,no
+30,28,PD,PRS-associated,26,21,0,0.13,1.0,1.0,no
+30,28,PD,PRS-associated,27,18,1,0.11,0.106,0.591,no
+30,28,PD,PRS-associated,28,17,0,0.1,1.0,1.0,no
+30,28,PD,ProRS-selected,1,717,4,32.66,1.0,1.0,no
+30,28,PD,ProRS-selected,2,235,6,10.7,0.964,1.0,no
+30,28,PD,ProRS-selected,3,179,13,8.15,0.0607,0.212,no
+30,28,PD,ProRS-selected,4,164,11,7.47,0.124,0.385,no
+30,28,PD,ProRS-selected,5,153,12,6.97,0.0433,0.202,no
+30,28,PD,ProRS-selected,6,147,18,6.7,8.22e-05,0.0023,yes
+30,28,PD,ProRS-selected,7,129,6,5.88,0.541,1.0,no
+30,28,PD,ProRS-selected,8,124,12,5.65,0.00965,0.0676,no
+30,28,PD,ProRS-selected,9,99,1,4.51,0.991,1.0,no
+30,28,PD,ProRS-selected,10,88,2,4.01,0.917,1.0,no
+30,28,PD,ProRS-selected,11,88,2,4.01,0.917,1.0,no
+30,28,PD,ProRS-selected,12,82,10,3.73,0.00354,0.0331,yes
+30,28,PD,ProRS-selected,13,80,8,3.64,0.0274,0.153,no
+30,28,PD,ProRS-selected,14,71,2,3.23,0.843,1.0,no
+30,28,PD,ProRS-selected,15,67,4,3.05,0.365,1.0,no
+30,28,PD,ProRS-selected,16,67,2,3.05,0.819,1.0,no
+30,28,PD,ProRS-selected,17,66,2,3.01,0.812,1.0,no
+30,28,PD,ProRS-selected,18,65,2,2.96,0.805,1.0,no
+30,28,PD,ProRS-selected,19,63,2,2.87,0.791,1.0,no
+30,28,PD,ProRS-selected,20,40,7,1.82,0.00184,0.0257,yes
+30,28,PD,ProRS-selected,21,33,4,1.5,0.0605,0.212,no
+30,28,PD,ProRS-selected,22,30,0,1.37,1.0,1.0,no
+30,28,PD,ProRS-selected,23,27,0,1.23,1.0,1.0,no
+30,28,PD,ProRS-selected,24,25,1,1.14,0.69,1.0,no
+30,28,PD,ProRS-selected,25,25,1,1.14,0.69,1.0,no
+30,28,PD,ProRS-selected,26,21,0,0.96,1.0,1.0,no
+30,28,PD,ProRS-selected,27,18,0,0.82,1.0,1.0,no
+30,28,PD,ProRS-selected,28,17,1,0.77,0.548,1.0,no
+30,28,ALS,PRS-associated,1,717,1,14.24,1.0,1.0,no
+30,28,ALS,PRS-associated,2,235,3,4.67,0.858,1.0,no
+30,28,ALS,PRS-associated,3,179,2,3.56,0.88,1.0,no
+30,28,ALS,PRS-associated,4,164,1,3.26,0.966,1.0,no
+30,28,ALS,PRS-associated,5,153,3,3.04,0.594,1.0,no
+30,28,ALS,PRS-associated,6,147,7,2.92,0.0247,0.346,no
+30,28,ALS,PRS-associated,7,129,6,2.56,0.0408,0.38,no
+30,28,ALS,PRS-associated,8,124,5,2.46,0.0975,0.682,no
+30,28,ALS,PRS-associated,9,99,24,1.97,1.52e-21,4.26e-20,yes
+30,28,ALS,PRS-associated,10,88,1,1.75,0.833,1.0,no
+30,28,ALS,PRS-associated,11,88,0,1.75,1.0,1.0,no
+30,28,ALS,PRS-associated,12,82,1,1.63,0.811,1.0,no
+30,28,ALS,PRS-associated,13,80,0,1.59,1.0,1.0,no
+30,28,ALS,PRS-associated,14,71,0,1.41,1.0,1.0,no
+30,28,ALS,PRS-associated,15,67,0,1.33,1.0,1.0,no
+30,28,ALS,PRS-associated,16,67,1,1.33,0.743,1.0,no
+30,28,ALS,PRS-associated,17,66,0,1.31,1.0,1.0,no
+30,28,ALS,PRS-associated,18,65,0,1.29,1.0,1.0,no
+30,28,ALS,PRS-associated,19,63,0,1.25,1.0,1.0,no
+30,28,ALS,PRS-associated,20,40,1,0.79,0.554,1.0,no
+30,28,ALS,PRS-associated,21,33,1,0.66,0.486,1.0,no
+30,28,ALS,PRS-associated,22,30,0,0.6,1.0,1.0,no
+30,28,ALS,PRS-associated,23,27,0,0.54,1.0,1.0,no
+30,28,ALS,PRS-associated,24,25,1,0.5,0.396,1.0,no
+30,28,ALS,PRS-associated,25,25,0,0.5,1.0,1.0,no
+30,28,ALS,PRS-associated,26,21,0,0.42,1.0,1.0,no
+30,28,ALS,PRS-associated,27,18,0,0.36,1.0,1.0,no
+30,28,ALS,PRS-associated,28,17,0,0.34,1.0,1.0,no
+30,28,ALS,ProRS-selected,1,717,0,4.42,1.0,1.0,no
+30,28,ALS,ProRS-selected,2,235,2,1.45,0.432,1.0,no
+30,28,ALS,ProRS-selected,3,179,2,1.1,0.303,1.0,no
+30,28,ALS,ProRS-selected,4,164,3,1.01,0.0763,0.712,no
+30,28,ALS,ProRS-selected,5,153,0,0.94,1.0,1.0,no
+30,28,ALS,ProRS-selected,6,147,1,0.91,0.606,1.0,no
+30,28,ALS,ProRS-selected,7,129,2,0.8,0.187,1.0,no
+30,28,ALS,ProRS-selected,8,124,1,0.76,0.543,1.0,no
+30,28,ALS,ProRS-selected,9,99,0,0.61,1.0,1.0,no
+30,28,ALS,ProRS-selected,10,88,0,0.54,1.0,1.0,no
+30,28,ALS,ProRS-selected,11,88,0,0.54,1.0,1.0,no
+30,28,ALS,ProRS-selected,12,82,1,0.51,0.402,1.0,no
+30,28,ALS,ProRS-selected,13,80,0,0.49,1.0,1.0,no
+30,28,ALS,ProRS-selected,14,71,0,0.44,1.0,1.0,no
+30,28,ALS,ProRS-selected,15,67,0,0.41,1.0,1.0,no
+30,28,ALS,ProRS-selected,16,67,0,0.41,1.0,1.0,no
+30,28,ALS,ProRS-selected,17,66,0,0.41,1.0,1.0,no
+30,28,ALS,ProRS-selected,18,65,0,0.4,1.0,1.0,no
+30,28,ALS,ProRS-selected,19,63,0,0.39,1.0,1.0,no
+30,28,ALS,ProRS-selected,20,40,3,0.25,0.00169,0.0472,yes
+30,28,ALS,ProRS-selected,21,33,1,0.2,0.186,1.0,no
+30,28,ALS,ProRS-selected,22,30,0,0.18,1.0,1.0,no
+30,28,ALS,ProRS-selected,23,27,0,0.17,1.0,1.0,no
+30,28,ALS,ProRS-selected,24,25,0,0.15,1.0,1.0,no
+30,28,ALS,ProRS-selected,25,25,0,0.15,1.0,1.0,no
+30,28,ALS,ProRS-selected,26,21,2,0.13,0.00703,0.0985,no
+30,28,ALS,ProRS-selected,27,18,0,0.11,1.0,1.0,no
+30,28,ALS,ProRS-selected,28,17,0,0.1,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,1,717,10,58.44,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,2,196,2,15.98,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,3,147,17,11.98,0.0856,0.314,no
+35,33,AD with APOE,PRS-associated,4,130,40,10.6,1.08e-14,1.77e-13,yes
+35,33,AD with APOE,PRS-associated,5,129,19,10.51,0.00727,0.0343,yes
+35,33,AD with APOE,PRS-associated,6,124,8,10.11,0.807,1.0,no
+35,33,AD with APOE,PRS-associated,7,124,21,10.11,0.000809,0.00534,yes
+35,33,AD with APOE,PRS-associated,8,104,32,8.48,6.72e-12,7.39e-11,yes
+35,33,AD with APOE,PRS-associated,9,99,0,8.07,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,10,88,1,7.17,0.999,1.0,no
+35,33,AD with APOE,PRS-associated,11,88,4,7.17,0.938,1.0,no
+35,33,AD with APOE,PRS-associated,12,80,1,6.52,0.999,1.0,no
+35,33,AD with APOE,PRS-associated,13,71,1,5.79,0.998,1.0,no
+35,33,AD with APOE,PRS-associated,14,67,6,5.46,0.469,1.0,no
+35,33,AD with APOE,PRS-associated,15,67,0,5.46,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,16,66,0,5.38,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,17,65,23,5.3,3.34e-10,2.75e-09,yes
+35,33,AD with APOE,PRS-associated,18,63,3,5.13,0.899,1.0,no
+35,33,AD with APOE,PRS-associated,19,53,3,4.32,0.82,1.0,no
+35,33,AD with APOE,PRS-associated,20,49,3,3.99,0.776,1.0,no
+35,33,AD with APOE,PRS-associated,21,49,8,3.99,0.0419,0.173,no
+35,33,AD with APOE,PRS-associated,22,40,9,3.26,0.00395,0.0217,yes
+35,33,AD with APOE,PRS-associated,23,40,3,3.26,0.645,1.0,no
+35,33,AD with APOE,PRS-associated,24,39,0,3.18,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,25,33,2,2.69,0.764,1.0,no
+35,33,AD with APOE,PRS-associated,26,30,3,2.45,0.447,1.0,no
+35,33,AD with APOE,PRS-associated,27,29,0,2.36,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,28,27,3,2.2,0.38,1.0,no
+35,33,AD with APOE,PRS-associated,29,25,0,2.04,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,30,25,0,2.04,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,31,21,0,1.71,1.0,1.0,no
+35,33,AD with APOE,PRS-associated,32,18,16,1.47,3.11e-16,1.03e-14,yes
+35,33,AD with APOE,PRS-associated,33,17,0,1.39,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,2,196,6,4.77,0.341,1.0,no
+35,33,AD with APOE,ProRS-selected,3,147,6,3.57,0.145,0.796,no
+35,33,AD with APOE,ProRS-selected,4,130,0,3.16,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,5,129,9,3.14,0.00352,0.0581,no
+35,33,AD with APOE,ProRS-selected,6,124,2,3.02,0.813,1.0,no
+35,33,AD with APOE,ProRS-selected,7,124,3,3.02,0.588,1.0,no
+35,33,AD with APOE,ProRS-selected,8,104,7,2.53,0.0121,0.133,no
+35,33,AD with APOE,ProRS-selected,9,99,3,2.41,0.435,1.0,no
+35,33,AD with APOE,ProRS-selected,10,88,3,2.14,0.362,1.0,no
+35,33,AD with APOE,ProRS-selected,11,88,0,2.14,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,12,80,1,1.95,0.864,1.0,no
+35,33,AD with APOE,ProRS-selected,13,71,1,1.73,0.83,1.0,no
+35,33,AD with APOE,ProRS-selected,14,67,4,1.63,0.0782,0.516,no
+35,33,AD with APOE,ProRS-selected,15,67,4,1.63,0.0782,0.516,no
+35,33,AD with APOE,ProRS-selected,16,66,0,1.6,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,17,65,2,1.58,0.473,1.0,no
+35,33,AD with APOE,ProRS-selected,18,63,2,1.53,0.457,1.0,no
+35,33,AD with APOE,ProRS-selected,19,53,1,1.29,0.732,1.0,no
+35,33,AD with APOE,ProRS-selected,20,49,0,1.19,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,21,49,2,1.19,0.336,1.0,no
+35,33,AD with APOE,ProRS-selected,22,40,1,0.97,0.629,1.0,no
+35,33,AD with APOE,ProRS-selected,23,40,6,0.97,0.000333,0.011,yes
+35,33,AD with APOE,ProRS-selected,24,39,0,0.95,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,25,33,2,0.8,0.191,0.899,no
+35,33,AD with APOE,ProRS-selected,26,30,0,0.73,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,27,29,1,0.71,0.512,1.0,no
+35,33,AD with APOE,ProRS-selected,28,27,1,0.66,0.487,1.0,no
+35,33,AD with APOE,ProRS-selected,29,25,0,0.61,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,30,25,0,0.61,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,31,21,0,0.51,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,32,18,0,0.44,1.0,1.0,no
+35,33,AD with APOE,ProRS-selected,33,17,0,0.41,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,1,717,2,9.58,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,2,196,0,2.62,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,3,147,0,1.96,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,4,130,12,1.74,5.12e-08,1.69e-06,yes
+35,33,AD without APOE,PRS-associated,5,129,4,1.72,0.0909,0.75,no
+35,33,AD without APOE,PRS-associated,6,124,1,1.66,0.818,1.0,no
+35,33,AD without APOE,PRS-associated,7,124,8,1.66,0.000171,0.00282,yes
+35,33,AD without APOE,PRS-associated,8,104,1,1.39,0.759,1.0,no
+35,33,AD without APOE,PRS-associated,9,99,0,1.32,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,10,88,0,1.18,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,11,88,0,1.18,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,12,80,0,1.07,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,13,71,0,0.95,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,14,67,0,0.89,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,15,67,0,0.89,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,16,66,0,0.88,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,17,65,0,0.87,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,18,63,1,0.84,0.575,1.0,no
+35,33,AD without APOE,PRS-associated,19,53,0,0.71,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,20,49,2,0.65,0.138,0.913,no
+35,33,AD without APOE,PRS-associated,21,49,1,0.65,0.485,1.0,no
+35,33,AD without APOE,PRS-associated,22,40,1,0.53,0.418,1.0,no
+35,33,AD without APOE,PRS-associated,23,40,0,0.53,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,24,39,0,0.52,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,25,33,1,0.44,0.36,1.0,no
+35,33,AD without APOE,PRS-associated,26,30,1,0.4,0.333,1.0,no
+35,33,AD without APOE,PRS-associated,27,29,0,0.39,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,28,27,3,0.36,0.00516,0.0568,no
+35,33,AD without APOE,PRS-associated,29,25,0,0.33,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,30,25,0,0.33,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,31,21,0,0.28,1.0,1.0,no
+35,33,AD without APOE,PRS-associated,32,18,1,0.24,0.216,1.0,no
+35,33,AD without APOE,PRS-associated,33,17,0,0.23,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,2,196,6,4.77,0.341,1.0,no
+35,33,AD without APOE,ProRS-selected,3,147,6,3.57,0.145,0.796,no
+35,33,AD without APOE,ProRS-selected,4,130,0,3.16,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,5,129,9,3.14,0.00352,0.0581,no
+35,33,AD without APOE,ProRS-selected,6,124,2,3.02,0.813,1.0,no
+35,33,AD without APOE,ProRS-selected,7,124,3,3.02,0.588,1.0,no
+35,33,AD without APOE,ProRS-selected,8,104,7,2.53,0.0121,0.133,no
+35,33,AD without APOE,ProRS-selected,9,99,3,2.41,0.435,1.0,no
+35,33,AD without APOE,ProRS-selected,10,88,3,2.14,0.362,1.0,no
+35,33,AD without APOE,ProRS-selected,11,88,0,2.14,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,12,80,1,1.95,0.864,1.0,no
+35,33,AD without APOE,ProRS-selected,13,71,1,1.73,0.83,1.0,no
+35,33,AD without APOE,ProRS-selected,14,67,4,1.63,0.0782,0.516,no
+35,33,AD without APOE,ProRS-selected,15,67,4,1.63,0.0782,0.516,no
+35,33,AD without APOE,ProRS-selected,16,66,0,1.6,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,17,65,2,1.58,0.473,1.0,no
+35,33,AD without APOE,ProRS-selected,18,63,2,1.53,0.457,1.0,no
+35,33,AD without APOE,ProRS-selected,19,53,1,1.29,0.732,1.0,no
+35,33,AD without APOE,ProRS-selected,20,49,0,1.19,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,21,49,2,1.19,0.336,1.0,no
+35,33,AD without APOE,ProRS-selected,22,40,1,0.97,0.629,1.0,no
+35,33,AD without APOE,ProRS-selected,23,40,6,0.97,0.000333,0.011,yes
+35,33,AD without APOE,ProRS-selected,24,39,0,0.95,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,25,33,2,0.8,0.191,0.899,no
+35,33,AD without APOE,ProRS-selected,26,30,0,0.73,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,27,29,1,0.71,0.512,1.0,no
+35,33,AD without APOE,ProRS-selected,28,27,1,0.66,0.487,1.0,no
+35,33,AD without APOE,ProRS-selected,29,25,0,0.61,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,30,25,0,0.61,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,31,21,0,0.51,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,32,18,0,0.44,1.0,1.0,no
+35,33,AD without APOE,ProRS-selected,33,17,0,0.41,1.0,1.0,no
+35,33,PD,PRS-associated,1,717,0,4.42,1.0,1.0,no
+35,33,PD,PRS-associated,2,196,0,1.21,1.0,1.0,no
+35,33,PD,PRS-associated,3,147,1,0.91,0.606,1.0,no
+35,33,PD,PRS-associated,4,130,0,0.8,1.0,1.0,no
+35,33,PD,PRS-associated,5,129,3,0.8,0.0423,0.349,no
+35,33,PD,PRS-associated,6,124,0,0.76,1.0,1.0,no
+35,33,PD,PRS-associated,7,124,4,0.76,0.00596,0.0984,no
+35,33,PD,PRS-associated,8,104,3,0.64,0.0243,0.267,no
+35,33,PD,PRS-associated,9,99,0,0.61,1.0,1.0,no
+35,33,PD,PRS-associated,10,88,0,0.54,1.0,1.0,no
+35,33,PD,PRS-associated,11,88,0,0.54,1.0,1.0,no
+35,33,PD,PRS-associated,12,80,0,0.49,1.0,1.0,no
+35,33,PD,PRS-associated,13,71,1,0.44,0.359,1.0,no
+35,33,PD,PRS-associated,14,67,1,0.41,0.342,1.0,no
+35,33,PD,PRS-associated,15,67,0,0.41,1.0,1.0,no
+35,33,PD,PRS-associated,16,66,0,0.41,1.0,1.0,no
+35,33,PD,PRS-associated,17,65,0,0.4,1.0,1.0,no
+35,33,PD,PRS-associated,18,63,0,0.39,1.0,1.0,no
+35,33,PD,PRS-associated,19,53,0,0.33,1.0,1.0,no
+35,33,PD,PRS-associated,20,49,1,0.3,0.263,1.0,no
+35,33,PD,PRS-associated,21,49,0,0.3,1.0,1.0,no
+35,33,PD,PRS-associated,22,40,0,0.25,1.0,1.0,no
+35,33,PD,PRS-associated,23,40,0,0.25,1.0,1.0,no
+35,33,PD,PRS-associated,24,39,0,0.24,1.0,1.0,no
+35,33,PD,PRS-associated,25,33,3,0.2,0.000956,0.0316,yes
+35,33,PD,PRS-associated,26,30,0,0.18,1.0,1.0,no
+35,33,PD,PRS-associated,27,29,0,0.18,1.0,1.0,no
+35,33,PD,PRS-associated,28,27,0,0.17,1.0,1.0,no
+35,33,PD,PRS-associated,29,25,0,0.15,1.0,1.0,no
+35,33,PD,PRS-associated,30,25,0,0.15,1.0,1.0,no
+35,33,PD,PRS-associated,31,21,0,0.13,1.0,1.0,no
+35,33,PD,PRS-associated,32,18,1,0.11,0.106,0.697,no
+35,33,PD,PRS-associated,33,17,0,0.1,1.0,1.0,no
+35,33,PD,ProRS-selected,1,717,4,32.66,1.0,1.0,no
+35,33,PD,ProRS-selected,2,196,6,8.93,0.894,1.0,no
+35,33,PD,ProRS-selected,3,147,18,6.7,8.22e-05,0.00271,yes
+35,33,PD,ProRS-selected,4,130,7,5.92,0.38,0.984,no
+35,33,PD,ProRS-selected,5,129,6,5.88,0.541,1.0,no
+35,33,PD,ProRS-selected,6,124,9,5.65,0.109,0.36,no
+35,33,PD,ProRS-selected,7,124,12,5.65,0.00965,0.106,no
+35,33,PD,ProRS-selected,8,104,9,4.74,0.045,0.186,no
+35,33,PD,ProRS-selected,9,99,1,4.51,0.991,1.0,no
+35,33,PD,ProRS-selected,10,88,2,4.01,0.917,1.0,no
+35,33,PD,ProRS-selected,11,88,2,4.01,0.917,1.0,no
+35,33,PD,ProRS-selected,12,80,8,3.64,0.0274,0.173,no
+35,33,PD,ProRS-selected,13,71,2,3.23,0.843,1.0,no
+35,33,PD,ProRS-selected,14,67,4,3.05,0.365,0.984,no
+35,33,PD,ProRS-selected,15,67,2,3.05,0.819,1.0,no
+35,33,PD,ProRS-selected,16,66,2,3.01,0.812,1.0,no
+35,33,PD,ProRS-selected,17,65,2,2.96,0.805,1.0,no
+35,33,PD,ProRS-selected,18,63,2,2.87,0.791,1.0,no
+35,33,PD,ProRS-selected,19,53,6,2.41,0.0315,0.173,no
+35,33,PD,ProRS-selected,20,49,6,2.23,0.0223,0.173,no
+35,33,PD,ProRS-selected,21,49,3,2.23,0.388,0.984,no
+35,33,PD,ProRS-selected,22,40,2,1.82,0.551,1.0,no
+35,33,PD,ProRS-selected,23,40,7,1.82,0.00184,0.0303,yes
+35,33,PD,ProRS-selected,24,39,0,1.78,1.0,1.0,no
+35,33,PD,ProRS-selected,25,33,4,1.5,0.0605,0.222,no
+35,33,PD,ProRS-selected,26,30,0,1.37,1.0,1.0,no
+35,33,PD,ProRS-selected,27,29,4,1.32,0.0404,0.186,no
+35,33,PD,ProRS-selected,28,27,0,1.23,1.0,1.0,no
+35,33,PD,ProRS-selected,29,25,1,1.14,0.69,1.0,no
+35,33,PD,ProRS-selected,30,25,1,1.14,0.69,1.0,no
+35,33,PD,ProRS-selected,31,21,0,0.96,1.0,1.0,no
+35,33,PD,ProRS-selected,32,18,0,0.82,1.0,1.0,no
+35,33,PD,ProRS-selected,33,17,1,0.77,0.548,1.0,no
+35,33,ALS,PRS-associated,1,717,1,14.24,1.0,1.0,no
+35,33,ALS,PRS-associated,2,196,3,3.89,0.759,1.0,no
+35,33,ALS,PRS-associated,3,147,7,2.92,0.0247,0.407,no
+35,33,ALS,PRS-associated,4,130,1,2.58,0.931,1.0,no
+35,33,ALS,PRS-associated,5,129,6,2.56,0.0408,0.448,no
+35,33,ALS,PRS-associated,6,124,1,2.46,0.921,1.0,no
+35,33,ALS,PRS-associated,7,124,5,2.46,0.0975,0.804,no
+35,33,ALS,PRS-associated,8,104,2,2.07,0.619,1.0,no
+35,33,ALS,PRS-associated,9,99,24,1.97,1.52e-21,5.02e-20,yes
+35,33,ALS,PRS-associated,10,88,1,1.75,0.833,1.0,no
+35,33,ALS,PRS-associated,11,88,0,1.75,1.0,1.0,no
+35,33,ALS,PRS-associated,12,80,0,1.59,1.0,1.0,no
+35,33,ALS,PRS-associated,13,71,0,1.41,1.0,1.0,no
+35,33,ALS,PRS-associated,14,67,0,1.33,1.0,1.0,no
+35,33,ALS,PRS-associated,15,67,1,1.33,0.743,1.0,no
+35,33,ALS,PRS-associated,16,66,0,1.31,1.0,1.0,no
+35,33,ALS,PRS-associated,17,65,0,1.29,1.0,1.0,no
+35,33,ALS,PRS-associated,18,63,0,1.25,1.0,1.0,no
+35,33,ALS,PRS-associated,19,53,1,1.05,0.658,1.0,no
+35,33,ALS,PRS-associated,20,49,1,0.97,0.629,1.0,no
+35,33,ALS,PRS-associated,21,49,1,0.97,0.629,1.0,no
+35,33,ALS,PRS-associated,22,40,0,0.79,1.0,1.0,no
+35,33,ALS,PRS-associated,23,40,1,0.79,0.554,1.0,no
+35,33,ALS,PRS-associated,24,39,0,0.77,1.0,1.0,no
+35,33,ALS,PRS-associated,25,33,1,0.66,0.486,1.0,no
+35,33,ALS,PRS-associated,26,30,0,0.6,1.0,1.0,no
+35,33,ALS,PRS-associated,27,29,0,0.58,1.0,1.0,no
+35,33,ALS,PRS-associated,28,27,0,0.54,1.0,1.0,no
+35,33,ALS,PRS-associated,29,25,1,0.5,0.396,1.0,no
+35,33,ALS,PRS-associated,30,25,0,0.5,1.0,1.0,no
+35,33,ALS,PRS-associated,31,21,0,0.42,1.0,1.0,no
+35,33,ALS,PRS-associated,32,18,0,0.36,1.0,1.0,no
+35,33,ALS,PRS-associated,33,17,0,0.34,1.0,1.0,no
+35,33,ALS,ProRS-selected,1,717,0,4.42,1.0,1.0,no
+35,33,ALS,ProRS-selected,2,196,2,1.21,0.343,1.0,no
+35,33,ALS,ProRS-selected,3,147,1,0.91,0.606,1.0,no
+35,33,ALS,ProRS-selected,4,130,1,0.8,0.561,1.0,no
+35,33,ALS,ProRS-selected,5,129,2,0.8,0.187,1.0,no
+35,33,ALS,ProRS-selected,6,124,2,0.76,0.176,1.0,no
+35,33,ALS,ProRS-selected,7,124,1,0.76,0.543,1.0,no
+35,33,ALS,ProRS-selected,8,104,0,0.64,1.0,1.0,no
+35,33,ALS,ProRS-selected,9,99,0,0.61,1.0,1.0,no
+35,33,ALS,ProRS-selected,10,88,0,0.54,1.0,1.0,no
+35,33,ALS,ProRS-selected,11,88,0,0.54,1.0,1.0,no
+35,33,ALS,ProRS-selected,12,80,0,0.49,1.0,1.0,no
+35,33,ALS,ProRS-selected,13,71,0,0.44,1.0,1.0,no
+35,33,ALS,ProRS-selected,14,67,0,0.41,1.0,1.0,no
+35,33,ALS,ProRS-selected,15,67,0,0.41,1.0,1.0,no
+35,33,ALS,ProRS-selected,16,66,0,0.41,1.0,1.0,no
+35,33,ALS,ProRS-selected,17,65,0,0.4,1.0,1.0,no
+35,33,ALS,ProRS-selected,18,63,0,0.39,1.0,1.0,no
+35,33,ALS,ProRS-selected,19,53,1,0.33,0.282,1.0,no
+35,33,ALS,ProRS-selected,20,49,1,0.3,0.263,1.0,no
+35,33,ALS,ProRS-selected,21,49,0,0.3,1.0,1.0,no
+35,33,ALS,ProRS-selected,22,40,1,0.25,0.22,1.0,no
+35,33,ALS,ProRS-selected,23,40,3,0.25,0.00169,0.0556,no
+35,33,ALS,ProRS-selected,24,39,0,0.24,1.0,1.0,no
+35,33,ALS,ProRS-selected,25,33,1,0.2,0.186,1.0,no
+35,33,ALS,ProRS-selected,26,30,0,0.18,1.0,1.0,no
+35,33,ALS,ProRS-selected,27,29,0,0.18,1.0,1.0,no
+35,33,ALS,ProRS-selected,28,27,0,0.17,1.0,1.0,no
+35,33,ALS,ProRS-selected,29,25,0,0.15,1.0,1.0,no
+35,33,ALS,ProRS-selected,30,25,0,0.15,1.0,1.0,no
+35,33,ALS,ProRS-selected,31,21,2,0.13,0.00703,0.116,no
+35,33,ALS,ProRS-selected,32,18,0,0.11,1.0,1.0,no
+35,33,ALS,ProRS-selected,33,17,0,0.1,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,1,717,10,58.44,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,2,196,2,15.98,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,3,130,40,10.6,1.08e-14,2.04e-13,yes
+40,38,AD with APOE,PRS-associated,4,129,12,10.51,0.359,1.0,no
+40,38,AD with APOE,PRS-associated,5,124,8,10.11,0.807,1.0,no
+40,38,AD with APOE,PRS-associated,6,106,17,8.64,0.00459,0.0291,yes
+40,38,AD with APOE,PRS-associated,7,104,32,8.48,6.72e-12,8.51e-11,yes
+40,38,AD with APOE,PRS-associated,8,99,0,8.07,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,9,88,1,7.17,0.999,1.0,no
+40,38,AD with APOE,PRS-associated,10,88,4,7.17,0.938,1.0,no
+40,38,AD with APOE,PRS-associated,11,86,13,7.01,0.0202,0.0836,no
+40,38,AD with APOE,PRS-associated,12,80,1,6.52,0.999,1.0,no
+40,38,AD with APOE,PRS-associated,13,71,1,5.79,0.998,1.0,no
+40,38,AD with APOE,PRS-associated,14,67,0,5.46,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,15,66,0,5.38,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,16,65,23,5.3,3.34e-10,3.17e-09,yes
+40,38,AD with APOE,PRS-associated,17,63,3,5.13,0.899,1.0,no
+40,38,AD with APOE,PRS-associated,18,59,3,4.81,0.872,1.0,no
+40,38,AD with APOE,PRS-associated,19,49,3,3.99,0.776,1.0,no
+40,38,AD with APOE,PRS-associated,20,49,8,3.99,0.0419,0.145,no
+40,38,AD with APOE,PRS-associated,21,40,9,3.26,0.00395,0.0291,yes
+40,38,AD with APOE,PRS-associated,22,40,3,3.26,0.645,1.0,no
+40,38,AD with APOE,PRS-associated,23,39,0,3.18,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,24,38,8,3.1,0.00986,0.0535,no
+40,38,AD with APOE,PRS-associated,25,33,2,2.69,0.764,1.0,no
+40,38,AD with APOE,PRS-associated,26,30,1,2.45,0.923,1.0,no
+40,38,AD with APOE,PRS-associated,27,30,3,2.45,0.447,1.0,no
+40,38,AD with APOE,PRS-associated,28,29,0,2.36,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,29,27,3,2.2,0.38,1.0,no
+40,38,AD with APOE,PRS-associated,30,25,0,2.04,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,31,25,0,2.04,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,32,23,2,1.87,0.571,1.0,no
+40,38,AD with APOE,PRS-associated,33,23,2,1.87,0.571,1.0,no
+40,38,AD with APOE,PRS-associated,34,21,0,1.71,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,35,18,5,1.47,0.0122,0.0581,no
+40,38,AD with APOE,PRS-associated,36,18,16,1.47,3.11e-16,1.18e-14,yes
+40,38,AD with APOE,PRS-associated,37,17,0,1.39,1.0,1.0,no
+40,38,AD with APOE,PRS-associated,38,8,3,0.65,0.022,0.0836,no
+40,38,AD with APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,2,196,6,4.77,0.341,1.0,no
+40,38,AD with APOE,ProRS-selected,3,130,0,3.16,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,4,129,5,3.14,0.203,0.963,no
+40,38,AD with APOE,ProRS-selected,5,124,2,3.02,0.813,1.0,no
+40,38,AD with APOE,ProRS-selected,6,106,5,2.58,0.113,0.717,no
+40,38,AD with APOE,ProRS-selected,7,104,7,2.53,0.0121,0.115,no
+40,38,AD with APOE,ProRS-selected,8,99,3,2.41,0.435,1.0,no
+40,38,AD with APOE,ProRS-selected,9,88,3,2.14,0.362,1.0,no
+40,38,AD with APOE,ProRS-selected,10,88,0,2.14,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,11,86,2,2.09,0.626,1.0,no
+40,38,AD with APOE,ProRS-selected,12,80,1,1.95,0.864,1.0,no
+40,38,AD with APOE,ProRS-selected,13,71,1,1.73,0.83,1.0,no
+40,38,AD with APOE,ProRS-selected,14,67,4,1.63,0.0782,0.594,no
+40,38,AD with APOE,ProRS-selected,15,66,0,1.6,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,16,65,2,1.58,0.473,1.0,no
+40,38,AD with APOE,ProRS-selected,17,63,2,1.53,0.457,1.0,no
+40,38,AD with APOE,ProRS-selected,18,59,1,1.43,0.769,1.0,no
+40,38,AD with APOE,ProRS-selected,19,49,0,1.19,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,20,49,2,1.19,0.336,1.0,no
+40,38,AD with APOE,ProRS-selected,21,40,1,0.97,0.629,1.0,no
+40,38,AD with APOE,ProRS-selected,22,40,6,0.97,0.000333,0.0127,yes
+40,38,AD with APOE,ProRS-selected,23,39,0,0.95,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,24,38,1,0.92,0.61,1.0,no
+40,38,AD with APOE,ProRS-selected,25,33,2,0.8,0.191,0.963,no
+40,38,AD with APOE,ProRS-selected,26,30,1,0.73,0.524,1.0,no
+40,38,AD with APOE,ProRS-selected,27,30,0,0.73,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,28,29,1,0.71,0.512,1.0,no
+40,38,AD with APOE,ProRS-selected,29,27,1,0.66,0.487,1.0,no
+40,38,AD with APOE,ProRS-selected,30,25,0,0.61,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,31,25,0,0.61,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,32,23,0,0.56,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,33,23,4,0.56,0.002,0.0254,yes
+40,38,AD with APOE,ProRS-selected,34,21,0,0.51,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,35,18,1,0.44,0.359,1.0,no
+40,38,AD with APOE,ProRS-selected,36,18,0,0.44,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,37,17,0,0.41,1.0,1.0,no
+40,38,AD with APOE,ProRS-selected,38,8,3,0.19,0.000707,0.0134,yes
+40,38,AD without APOE,PRS-associated,1,717,2,9.58,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,2,196,0,2.62,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,3,130,12,1.74,5.12e-08,1.95e-06,yes
+40,38,AD without APOE,PRS-associated,4,129,0,1.72,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,5,124,1,1.66,0.818,1.0,no
+40,38,AD without APOE,PRS-associated,6,106,4,1.42,0.0509,0.484,no
+40,38,AD without APOE,PRS-associated,7,104,1,1.39,0.759,1.0,no
+40,38,AD without APOE,PRS-associated,8,99,0,1.32,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,9,88,0,1.18,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,10,88,0,1.18,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,11,86,7,1.15,0.000108,0.00204,yes
+40,38,AD without APOE,PRS-associated,12,80,0,1.07,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,13,71,0,0.95,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,14,67,0,0.89,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,15,66,0,0.88,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,16,65,0,0.87,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,17,63,1,0.84,0.575,1.0,no
+40,38,AD without APOE,PRS-associated,18,59,0,0.79,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,19,49,2,0.65,0.138,1.0,no
+40,38,AD without APOE,PRS-associated,20,49,1,0.65,0.485,1.0,no
+40,38,AD without APOE,PRS-associated,21,40,1,0.53,0.418,1.0,no
+40,38,AD without APOE,PRS-associated,22,40,0,0.53,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,23,39,0,0.52,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,24,38,1,0.51,0.402,1.0,no
+40,38,AD without APOE,PRS-associated,25,33,1,0.44,0.36,1.0,no
+40,38,AD without APOE,PRS-associated,26,30,0,0.4,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,27,30,1,0.4,0.333,1.0,no
+40,38,AD without APOE,PRS-associated,28,29,0,0.39,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,29,27,3,0.36,0.00516,0.0654,no
+40,38,AD without APOE,PRS-associated,30,25,0,0.33,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,31,25,0,0.33,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,32,23,0,0.31,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,33,23,0,0.31,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,34,21,0,0.28,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,35,18,0,0.24,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,36,18,1,0.24,0.216,1.0,no
+40,38,AD without APOE,PRS-associated,37,17,0,0.23,1.0,1.0,no
+40,38,AD without APOE,PRS-associated,38,8,0,0.11,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,1,717,4,17.43,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,2,196,6,4.77,0.341,1.0,no
+40,38,AD without APOE,ProRS-selected,3,130,0,3.16,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,4,129,5,3.14,0.203,0.963,no
+40,38,AD without APOE,ProRS-selected,5,124,2,3.02,0.813,1.0,no
+40,38,AD without APOE,ProRS-selected,6,106,5,2.58,0.113,0.717,no
+40,38,AD without APOE,ProRS-selected,7,104,7,2.53,0.0121,0.115,no
+40,38,AD without APOE,ProRS-selected,8,99,3,2.41,0.435,1.0,no
+40,38,AD without APOE,ProRS-selected,9,88,3,2.14,0.362,1.0,no
+40,38,AD without APOE,ProRS-selected,10,88,0,2.14,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,11,86,2,2.09,0.626,1.0,no
+40,38,AD without APOE,ProRS-selected,12,80,1,1.95,0.864,1.0,no
+40,38,AD without APOE,ProRS-selected,13,71,1,1.73,0.83,1.0,no
+40,38,AD without APOE,ProRS-selected,14,67,4,1.63,0.0782,0.594,no
+40,38,AD without APOE,ProRS-selected,15,66,0,1.6,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,16,65,2,1.58,0.473,1.0,no
+40,38,AD without APOE,ProRS-selected,17,63,2,1.53,0.457,1.0,no
+40,38,AD without APOE,ProRS-selected,18,59,1,1.43,0.769,1.0,no
+40,38,AD without APOE,ProRS-selected,19,49,0,1.19,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,20,49,2,1.19,0.336,1.0,no
+40,38,AD without APOE,ProRS-selected,21,40,1,0.97,0.629,1.0,no
+40,38,AD without APOE,ProRS-selected,22,40,6,0.97,0.000333,0.0127,yes
+40,38,AD without APOE,ProRS-selected,23,39,0,0.95,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,24,38,1,0.92,0.61,1.0,no
+40,38,AD without APOE,ProRS-selected,25,33,2,0.8,0.191,0.963,no
+40,38,AD without APOE,ProRS-selected,26,30,1,0.73,0.524,1.0,no
+40,38,AD without APOE,ProRS-selected,27,30,0,0.73,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,28,29,1,0.71,0.512,1.0,no
+40,38,AD without APOE,ProRS-selected,29,27,1,0.66,0.487,1.0,no
+40,38,AD without APOE,ProRS-selected,30,25,0,0.61,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,31,25,0,0.61,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,32,23,0,0.56,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,33,23,4,0.56,0.002,0.0254,yes
+40,38,AD without APOE,ProRS-selected,34,21,0,0.51,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,35,18,1,0.44,0.359,1.0,no
+40,38,AD without APOE,ProRS-selected,36,18,0,0.44,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,37,17,0,0.41,1.0,1.0,no
+40,38,AD without APOE,ProRS-selected,38,8,3,0.19,0.000707,0.0134,yes
+40,38,PD,PRS-associated,1,717,0,4.42,1.0,1.0,no
+40,38,PD,PRS-associated,2,196,0,1.21,1.0,1.0,no
+40,38,PD,PRS-associated,3,130,0,0.8,1.0,1.0,no
+40,38,PD,PRS-associated,4,129,1,0.8,0.558,1.0,no
+40,38,PD,PRS-associated,5,124,0,0.76,1.0,1.0,no
+40,38,PD,PRS-associated,6,106,3,0.65,0.0255,0.242,no
+40,38,PD,PRS-associated,7,104,3,0.64,0.0243,0.242,no
+40,38,PD,PRS-associated,8,99,0,0.61,1.0,1.0,no
+40,38,PD,PRS-associated,9,88,0,0.54,1.0,1.0,no
+40,38,PD,PRS-associated,10,88,0,0.54,1.0,1.0,no
+40,38,PD,PRS-associated,11,86,4,0.53,0.00157,0.0297,yes
+40,38,PD,PRS-associated,12,80,0,0.49,1.0,1.0,no
+40,38,PD,PRS-associated,13,71,1,0.44,0.359,1.0,no
+40,38,PD,PRS-associated,14,67,0,0.41,1.0,1.0,no
+40,38,PD,PRS-associated,15,66,0,0.41,1.0,1.0,no
+40,38,PD,PRS-associated,16,65,0,0.4,1.0,1.0,no
+40,38,PD,PRS-associated,17,63,0,0.39,1.0,1.0,no
+40,38,PD,PRS-associated,18,59,1,0.36,0.308,1.0,no
+40,38,PD,PRS-associated,19,49,1,0.3,0.263,1.0,no
+40,38,PD,PRS-associated,20,49,0,0.3,1.0,1.0,no
+40,38,PD,PRS-associated,21,40,0,0.25,1.0,1.0,no
+40,38,PD,PRS-associated,22,40,0,0.25,1.0,1.0,no
+40,38,PD,PRS-associated,23,39,0,0.24,1.0,1.0,no
+40,38,PD,PRS-associated,24,38,0,0.23,1.0,1.0,no
+40,38,PD,PRS-associated,25,33,3,0.2,0.000956,0.0297,yes
+40,38,PD,PRS-associated,26,30,0,0.18,1.0,1.0,no
+40,38,PD,PRS-associated,27,30,0,0.18,1.0,1.0,no
+40,38,PD,PRS-associated,28,29,0,0.18,1.0,1.0,no
+40,38,PD,PRS-associated,29,27,0,0.17,1.0,1.0,no
+40,38,PD,PRS-associated,30,25,0,0.15,1.0,1.0,no
+40,38,PD,PRS-associated,31,25,0,0.15,1.0,1.0,no
+40,38,PD,PRS-associated,32,23,0,0.14,1.0,1.0,no
+40,38,PD,PRS-associated,33,23,0,0.14,1.0,1.0,no
+40,38,PD,PRS-associated,34,21,0,0.13,1.0,1.0,no
+40,38,PD,PRS-associated,35,18,0,0.11,1.0,1.0,no
+40,38,PD,PRS-associated,36,18,1,0.11,0.106,0.803,no
+40,38,PD,PRS-associated,37,17,0,0.1,1.0,1.0,no
+40,38,PD,PRS-associated,38,8,0,0.05,1.0,1.0,no
+40,38,PD,ProRS-selected,1,717,4,32.66,1.0,1.0,no
+40,38,PD,ProRS-selected,2,196,6,8.93,0.894,1.0,no
+40,38,PD,ProRS-selected,3,130,7,5.92,0.38,1.0,no
+40,38,PD,ProRS-selected,4,129,17,5.88,5.13e-05,0.00195,yes
+40,38,PD,ProRS-selected,5,124,9,5.65,0.109,0.376,no
+40,38,PD,ProRS-selected,6,106,5,4.83,0.535,1.0,no
+40,38,PD,ProRS-selected,7,104,9,4.74,0.045,0.214,no
+40,38,PD,ProRS-selected,8,99,1,4.51,0.991,1.0,no
+40,38,PD,ProRS-selected,9,88,2,4.01,0.917,1.0,no
+40,38,PD,ProRS-selected,10,88,2,4.01,0.917,1.0,no
+40,38,PD,ProRS-selected,11,86,8,3.92,0.0399,0.214,no
+40,38,PD,ProRS-selected,12,80,8,3.64,0.0274,0.208,no
+40,38,PD,ProRS-selected,13,71,2,3.23,0.843,1.0,no
+40,38,PD,ProRS-selected,14,67,2,3.05,0.819,1.0,no
+40,38,PD,ProRS-selected,15,66,2,3.01,0.812,1.0,no
+40,38,PD,ProRS-selected,16,65,2,2.96,0.805,1.0,no
+40,38,PD,ProRS-selected,17,63,2,2.87,0.791,1.0,no
+40,38,PD,ProRS-selected,18,59,3,2.69,0.509,1.0,no
+40,38,PD,ProRS-selected,19,49,6,2.23,0.0223,0.208,no
+40,38,PD,ProRS-selected,20,49,3,2.23,0.388,1.0,no
+40,38,PD,ProRS-selected,21,40,2,1.82,0.551,1.0,no
+40,38,PD,ProRS-selected,22,40,7,1.82,0.00184,0.0349,yes
+40,38,PD,ProRS-selected,23,39,0,1.78,1.0,1.0,no
+40,38,PD,ProRS-selected,24,38,4,1.73,0.092,0.349,no
+40,38,PD,ProRS-selected,25,33,4,1.5,0.0605,0.256,no
+40,38,PD,ProRS-selected,26,30,5,1.37,0.0103,0.131,no
+40,38,PD,ProRS-selected,27,30,0,1.37,1.0,1.0,no
+40,38,PD,ProRS-selected,28,29,4,1.32,0.0404,0.214,no
+40,38,PD,ProRS-selected,29,27,0,1.23,1.0,1.0,no
+40,38,PD,ProRS-selected,30,25,1,1.14,0.69,1.0,no
+40,38,PD,ProRS-selected,31,25,1,1.14,0.69,1.0,no
+40,38,PD,ProRS-selected,32,23,1,1.05,0.659,1.0,no
+40,38,PD,ProRS-selected,33,23,1,1.05,0.659,1.0,no
+40,38,PD,ProRS-selected,34,21,0,0.96,1.0,1.0,no
+40,38,PD,ProRS-selected,35,18,1,0.82,0.569,1.0,no
+40,38,PD,ProRS-selected,36,18,0,0.82,1.0,1.0,no
+40,38,PD,ProRS-selected,37,17,1,0.77,0.548,1.0,no
+40,38,PD,ProRS-selected,38,8,1,0.36,0.312,0.987,no
+40,38,ALS,PRS-associated,1,717,1,14.24,1.0,1.0,no
+40,38,ALS,PRS-associated,2,196,3,3.89,0.759,1.0,no
+40,38,ALS,PRS-associated,3,130,1,2.58,0.931,1.0,no
+40,38,ALS,PRS-associated,4,129,7,2.56,0.0128,0.243,no
+40,38,ALS,PRS-associated,5,124,1,2.46,0.921,1.0,no
+40,38,ALS,PRS-associated,6,106,5,2.11,0.0573,0.544,no
+40,38,ALS,PRS-associated,7,104,2,2.07,0.619,1.0,no
+40,38,ALS,PRS-associated,8,99,24,1.97,1.52e-21,5.78e-20,yes
+40,38,ALS,PRS-associated,9,88,1,1.75,0.833,1.0,no
+40,38,ALS,PRS-associated,10,88,0,1.75,1.0,1.0,no
+40,38,ALS,PRS-associated,11,86,5,1.71,0.0265,0.336,no
+40,38,ALS,PRS-associated,12,80,0,1.59,1.0,1.0,no
+40,38,ALS,PRS-associated,13,71,0,1.41,1.0,1.0,no
+40,38,ALS,PRS-associated,14,67,1,1.33,0.743,1.0,no
+40,38,ALS,PRS-associated,15,66,0,1.31,1.0,1.0,no
+40,38,ALS,PRS-associated,16,65,0,1.29,1.0,1.0,no
+40,38,ALS,PRS-associated,17,63,0,1.25,1.0,1.0,no
+40,38,ALS,PRS-associated,18,59,0,1.17,1.0,1.0,no
+40,38,ALS,PRS-associated,19,49,1,0.97,0.629,1.0,no
+40,38,ALS,PRS-associated,20,49,1,0.97,0.629,1.0,no
+40,38,ALS,PRS-associated,21,40,0,0.79,1.0,1.0,no
+40,38,ALS,PRS-associated,22,40,1,0.79,0.554,1.0,no
+40,38,ALS,PRS-associated,23,39,0,0.77,1.0,1.0,no
+40,38,ALS,PRS-associated,24,38,0,0.75,1.0,1.0,no
+40,38,ALS,PRS-associated,25,33,1,0.66,0.486,1.0,no
+40,38,ALS,PRS-associated,26,30,0,0.6,1.0,1.0,no
+40,38,ALS,PRS-associated,27,30,0,0.6,1.0,1.0,no
+40,38,ALS,PRS-associated,28,29,0,0.58,1.0,1.0,no
+40,38,ALS,PRS-associated,29,27,0,0.54,1.0,1.0,no
+40,38,ALS,PRS-associated,30,25,1,0.5,0.396,1.0,no
+40,38,ALS,PRS-associated,31,25,0,0.5,1.0,1.0,no
+40,38,ALS,PRS-associated,32,23,1,0.46,0.371,1.0,no
+40,38,ALS,PRS-associated,33,23,1,0.46,0.371,1.0,no
+40,38,ALS,PRS-associated,34,21,0,0.42,1.0,1.0,no
+40,38,ALS,PRS-associated,35,18,0,0.36,1.0,1.0,no
+40,38,ALS,PRS-associated,36,18,0,0.36,1.0,1.0,no
+40,38,ALS,PRS-associated,37,17,0,0.34,1.0,1.0,no
+40,38,ALS,PRS-associated,38,8,0,0.16,1.0,1.0,no
+40,38,ALS,ProRS-selected,1,717,0,4.42,1.0,1.0,no
+40,38,ALS,ProRS-selected,2,196,2,1.21,0.343,1.0,no
+40,38,ALS,ProRS-selected,3,130,1,0.8,0.561,1.0,no
+40,38,ALS,ProRS-selected,4,129,1,0.8,0.558,1.0,no
+40,38,ALS,ProRS-selected,5,124,2,0.76,0.176,1.0,no
+40,38,ALS,ProRS-selected,6,106,2,0.65,0.137,1.0,no
+40,38,ALS,ProRS-selected,7,104,0,0.64,1.0,1.0,no
+40,38,ALS,ProRS-selected,8,99,0,0.61,1.0,1.0,no
+40,38,ALS,ProRS-selected,9,88,0,0.54,1.0,1.0,no
+40,38,ALS,ProRS-selected,10,88,0,0.54,1.0,1.0,no
+40,38,ALS,ProRS-selected,11,86,1,0.53,0.417,1.0,no
+40,38,ALS,ProRS-selected,12,80,0,0.49,1.0,1.0,no
+40,38,ALS,ProRS-selected,13,71,0,0.44,1.0,1.0,no
+40,38,ALS,ProRS-selected,14,67,0,0.41,1.0,1.0,no
+40,38,ALS,ProRS-selected,15,66,0,0.41,1.0,1.0,no
+40,38,ALS,ProRS-selected,16,65,0,0.4,1.0,1.0,no
+40,38,ALS,ProRS-selected,17,63,0,0.39,1.0,1.0,no
+40,38,ALS,ProRS-selected,18,59,0,0.36,1.0,1.0,no
+40,38,ALS,ProRS-selected,19,49,1,0.3,0.263,1.0,no
+40,38,ALS,ProRS-selected,20,49,0,0.3,1.0,1.0,no
+40,38,ALS,ProRS-selected,21,40,1,0.25,0.22,1.0,no
+40,38,ALS,ProRS-selected,22,40,3,0.25,0.00169,0.0641,no
+40,38,ALS,ProRS-selected,23,39,0,0.24,1.0,1.0,no
+40,38,ALS,ProRS-selected,24,38,0,0.23,1.0,1.0,no
+40,38,ALS,ProRS-selected,25,33,1,0.2,0.186,1.0,no
+40,38,ALS,ProRS-selected,26,30,1,0.18,0.17,1.0,no
+40,38,ALS,ProRS-selected,27,30,0,0.18,1.0,1.0,no
+40,38,ALS,ProRS-selected,28,29,0,0.18,1.0,1.0,no
+40,38,ALS,ProRS-selected,29,27,0,0.17,1.0,1.0,no
+40,38,ALS,ProRS-selected,30,25,0,0.15,1.0,1.0,no
+40,38,ALS,ProRS-selected,31,25,0,0.15,1.0,1.0,no
+40,38,ALS,ProRS-selected,32,23,0,0.14,1.0,1.0,no
+40,38,ALS,ProRS-selected,33,23,0,0.14,1.0,1.0,no
+40,38,ALS,ProRS-selected,34,21,2,0.13,0.00703,0.134,no
+40,38,ALS,ProRS-selected,35,18,0,0.11,1.0,1.0,no
+40,38,ALS,ProRS-selected,36,18,0,0.11,1.0,1.0,no
+40,38,ALS,ProRS-selected,37,17,0,0.1,1.0,1.0,no
+40,38,ALS,ProRS-selected,38,8,0,0.05,1.0,1.0,no

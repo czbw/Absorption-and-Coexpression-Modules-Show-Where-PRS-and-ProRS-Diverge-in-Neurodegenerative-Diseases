@@ -1,0 +1,9 @@
+config,label,penalty,n_prors_selected,n_prs_associated,observed_overlap,expected_overlap,obs_over_exp,hypergeometric_p
+AD_withAPOE,AD with APOE,lasso,71,238,16,5.79,2.76,0.000124
+AD_withAPOE,AD with APOE,elastic_net_alpha0.5,105,238,19,8.56,2.22,0.000621
+AD_noAPOE,AD without APOE,lasso,71,39,0,0.95,0.0,1.0
+AD_noAPOE,AD without APOE,elastic_net_alpha0.5,105,39,1,1.4,0.71,0.763
+PD,PD,lasso,133,18,2,0.82,2.44,0.196
+PD,PD,elastic_net_alpha0.5,156,18,2,0.96,2.08,0.25
+ALS,ALS,lasso,18,58,0,0.36,0.0,1.0
+ALS,ALS,elastic_net_alpha0.5,23,58,0,0.46,0.0,1.0

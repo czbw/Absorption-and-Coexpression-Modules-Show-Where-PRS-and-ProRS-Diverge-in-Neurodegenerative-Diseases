@@ -1,0 +1,34 @@
+module,go_annotation,shared_members,pairs_together_observed,null_mean,z,q,beats_null_q05,pve_pc1_ukb,pve_pc1_aou
+M1,mitochondrion,704,0.7806,0.0905,109.41,0.000785,yes,0.613,0.526
+M11,nucleoplasm,86,0.8224,0.0898,35.94,0.000785,yes,0.4,0.517
+M17,mitochondrion,65,0.6707,0.0905,24.14,0.000785,yes,0.402,0.427
+M26,no enriched term at any threshold,28,0.8624,0.0897,20.35,0.000785,yes,0.587,0.563
+M33,carbohydrate metabolic process,14,1.0,0.0889,15.56,0.000785,yes,0.53,0.647
+M4,extracellular matrix,126,0.3392,0.0894,15.12,0.000785,yes,0.387,0.491
+M31,sarcomere,20,0.8105,0.0914,14.62,0.000785,yes,0.388,0.497
+M16,nucleoplasm,64,0.4241,0.091,13.88,0.000785,yes,0.612,0.565
+M28,specific granule membrane,26,0.5846,0.09,12.21,0.000785,yes,0.356,0.416
+M2,no enriched term at any threshold,183,0.2595,0.0905,12.05,0.000785,yes,0.061,0.042
+M18,extracellular matrix,62,0.376,0.0896,12.01,0.000785,yes,0.511,0.468
+M32,lysosome,17,0.5735,0.0899,9.57,0.000785,yes,0.399,0.414
+M14,blood microparticle,63,0.3001,0.0888,8.68,0.000785,yes,0.26,0.34
+M19,fatty acid transport,51,0.3027,0.0895,8.12,0.000785,yes,0.184,0.24
+M6,signaling receptor complex,119,0.2166,0.0895,7.63,0.000785,yes,0.209,0.303
+M23,GABA-ergic synapse,40,0.3051,0.0903,6.83,0.000785,yes,0.335,0.428
+M7,external side of plasma membrane,119,0.1991,0.0903,6.48,0.000785,yes,0.259,0.3
+M10,postsynaptic membrane,84,0.222,0.0907,6.33,0.000785,yes,0.166,0.051
+M20,cell surface,49,0.2585,0.0899,6.1,0.000785,yes,0.384,0.473
+M12,cell surface receptor signaling pathway via JAK-STAT,78,0.2078,0.0893,5.69,0.000785,yes,0.071,0.055
+M24,nucleoplasm,37,0.2688,0.0894,5.56,0.000785,yes,0.183,0.067
+M22,extracellular matrix,40,0.2628,0.0913,5.36,0.00143,yes,0.272,0.387
+M30,euchromatin,25,0.2833,0.0911,4.77,0.00143,yes,0.529,0.22
+M9,nucleoplasm,93,0.1641,0.0899,3.79,0.00344,yes,0.355,0.132
+M25,cornified envelope,32,0.2117,0.0903,3.44,0.0119,yes,0.213,0.283
+M27,multivesicular body,28,0.1984,0.0882,2.95,0.0171,yes,0.236,0.263
+M13,sodium ion transport,69,0.1539,0.0893,2.85,0.014,yes,0.178,0.049
+M8,endoplasmic reticulum,102,0.1349,0.0896,2.46,0.0224,yes,0.23,0.262
+M29,no enriched term at any threshold,25,0.18,0.0905,2.28,0.037,yes,0.441,0.205
+M21,antimicrobial humoral immune response mediated by antimicrobial peptide,49,0.1063,0.0901,0.57,0.267,no,0.282,0.331
+M15,nuclear body,61,0.1016,0.0892,0.5,0.296,no,0.193,0.09
+M5,negative regulation of tumor necrosis factor production,122,0.0828,0.09,-0.42,0.663,no,0.081,0.142
+M3,high-density lipoprotein particle,138,0.0708,0.0899,-1.19,0.901,no,0.067,0.121

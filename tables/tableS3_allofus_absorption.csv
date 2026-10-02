@@ -1,0 +1,5 @@
+score,absorption,ci_95_low,ci_95_high,cases,subset
+AD with APOE,0.47,0.248,0.862,39 prevalent cases,all ancestries (same 39 cases as Table S2)
+AD without APOE,not estimable,,,,as described in Results 3.1
+PD,0.249,,,,European-similar subset
+AD vs PD contrast,not tested,,,AD 20 and PD 35 cases,European-similar subset

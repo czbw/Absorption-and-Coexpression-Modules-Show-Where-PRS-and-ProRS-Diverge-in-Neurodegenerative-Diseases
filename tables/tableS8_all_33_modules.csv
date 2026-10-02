@@ -1,0 +1,34 @@
+module,n_proteins,go_annotation,annotation_basis,pve_pc1_ukb,drawn_in_fig2a,prs_enrich_q_AD_withAPOE,prors_enrich_q_AD_withAPOE,eigenprotein_q_AD_withAPOE,prs_enrich_q_AD_noAPOE,prors_enrich_q_AD_noAPOE,eigenprotein_q_AD_noAPOE,prs_enrich_q_PD,prors_enrich_q_PD,eigenprotein_q_PD,prs_enrich_q_ALS,prors_enrich_q_ALS,eigenprotein_q_ALS
+M1,717,mitochondrion,clears FDR,0.613,no,1.0,1.0,0.688,1.0,1.0,0.353,1.0,1.0,0.563,1.0,1.0,0.787
+M2,196,no enriched term at any threshold,none,0.061,yes,1.0,1.0,0.94,1.0,1.0,0.712,1.0,1.0,0.788,1.0,1.0,0.0449
+M3,147,high-density lipoprotein particle,clears FDR,0.067,yes,0.314,0.796,0.000743,1.0,0.796,0.787,1.0,0.00271,0.197,0.407,1.0,0.787
+M4,130,extracellular matrix,clears FDR,0.387,yes,1.77e-13,1.0,0.004,1.69e-06,1.0,0.0581,1.0,0.984,0.563,1.0,1.0,0.787
+M5,129,negative regulation of tumor necrosis factor production,below FDR (q=0.14),0.081,yes,0.0343,0.0581,0.004,0.75,0.0581,0.192,0.349,1.0,0.563,0.448,1.0,0.787
+M6,124,signaling receptor complex,clears FDR,0.209,no,1.0,1.0,0.696,1.0,1.0,0.783,1.0,0.36,0.563,1.0,1.0,0.787
+M7,124,external side of plasma membrane,clears FDR,0.259,yes,0.00534,1.0,0.004,0.00282,1.0,0.0615,0.0984,0.106,0.788,0.804,1.0,0.787
+M8,104,endoplasmic reticulum,below FDR (q=0.099),0.23,yes,7.39e-11,0.133,0.000743,1.0,0.133,0.783,0.267,0.186,0.0509,1.0,1.0,0.787
+M9,99,nucleoplasm,below FDR (q=0.053),0.355,yes,1.0,1.0,0.94,1.0,1.0,0.783,1.0,1.0,0.77,5.02e-20,1.0,0.0001
+M10,88,postsynaptic membrane,clears FDR,0.166,no,1.0,1.0,0.798,1.0,1.0,0.783,1.0,1.0,0.76,1.0,1.0,0.942
+M11,88,nucleoplasm,clears FDR,0.4,no,1.0,1.0,0.804,1.0,1.0,0.783,1.0,1.0,0.348,1.0,1.0,0.549
+M12,80,cell surface receptor signaling pathway via JAK-STAT,below FDR (q=0.092),0.071,no,1.0,1.0,0.798,1.0,1.0,0.331,1.0,0.173,0.895,1.0,1.0,0.787
+M13,71,sodium ion transport,below FDR (q=0.081),0.178,no,1.0,1.0,0.94,1.0,1.0,0.958,1.0,1.0,0.788,1.0,1.0,0.787
+M14,67,blood microparticle,clears FDR,0.26,no,1.0,0.516,0.129,1.0,0.516,0.538,1.0,0.984,0.0605,1.0,1.0,0.787
+M15,67,nuclear body,clears FDR,0.193,no,1.0,0.516,0.94,1.0,0.516,0.783,1.0,1.0,0.895,1.0,1.0,0.965
+M16,66,nucleoplasm,clears FDR,0.612,no,1.0,1.0,0.696,1.0,1.0,0.964,1.0,1.0,0.979,1.0,1.0,0.787
+M17,65,mitochondrion,clears FDR,0.402,yes,2.75e-09,1.0,0.004,1.0,1.0,0.712,1.0,1.0,0.683,1.0,1.0,0.787
+M18,63,extracellular matrix,clears FDR,0.511,no,1.0,1.0,0.646,1.0,1.0,0.0581,1.0,1.0,0.549,1.0,1.0,0.787
+M19,53,fatty acid transport,clears FDR,0.184,no,1.0,1.0,0.596,1.0,1.0,0.783,1.0,0.173,0.895,1.0,1.0,0.787
+M20,49,cell surface,below FDR (q=0.14),0.384,no,1.0,1.0,0.696,0.913,1.0,0.326,1.0,0.173,0.88,1.0,1.0,0.787
+M21,49,antimicrobial humoral immune response mediated by antimicrobial peptide,clears FDR,0.282,no,0.173,1.0,0.537,1.0,1.0,0.518,1.0,0.984,0.563,1.0,1.0,0.787
+M22,40,extracellular matrix,clears FDR,0.272,yes,0.0217,1.0,0.149,1.0,1.0,0.783,1.0,1.0,0.835,1.0,1.0,0.787
+M23,40,GABA-ergic synapse,clears FDR,0.335,yes,1.0,0.011,0.356,1.0,0.011,0.783,1.0,0.0303,0.115,1.0,0.0556,0.787
+M24,39,nucleoplasm,clears FDR,0.183,no,1.0,1.0,0.497,1.0,1.0,0.99,1.0,1.0,0.856,1.0,1.0,0.787
+M25,33,cornified envelope,clears FDR,0.213,yes,1.0,0.899,0.959,1.0,0.899,0.799,0.0316,0.222,0.0584,1.0,1.0,0.549
+M26,30,no enriched term at any threshold,none,0.587,no,1.0,1.0,0.169,1.0,1.0,0.326,1.0,1.0,0.563,1.0,1.0,0.787
+M27,29,multivesicular body,below FDR (q=0.16),0.236,no,1.0,1.0,0.497,1.0,1.0,0.984,1.0,0.186,0.895,1.0,1.0,0.787
+M28,27,specific granule membrane,clears FDR,0.356,no,1.0,1.0,0.22,0.0568,1.0,0.0581,1.0,1.0,0.549,1.0,1.0,0.787
+M29,25,no enriched term at any threshold,none,0.441,no,1.0,1.0,0.688,1.0,1.0,0.712,1.0,1.0,0.563,1.0,1.0,0.787
+M30,25,euchromatin,clears FDR,0.529,no,1.0,1.0,0.75,1.0,1.0,0.783,1.0,1.0,0.676,1.0,1.0,0.549
+M31,21,sarcomere,clears FDR,0.388,no,1.0,1.0,0.789,1.0,1.0,0.783,1.0,1.0,0.429,1.0,0.116,0.787
+M32,18,lysosome,clears FDR,0.399,yes,1.03e-14,1.0,6.36e-17,1.0,1.0,0.0581,0.697,1.0,0.0509,1.0,1.0,0.549
+M33,17,carbohydrate metabolic process,clears FDR,0.53,no,1.0,1.0,0.537,1.0,1.0,0.353,1.0,1.0,0.563,1.0,1.0,0.787
